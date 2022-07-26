@@ -1,0 +1,13 @@
+/.metadata/
+/Servers/
+/pyc/
+/HELLO_CV/
+/OPENCV_JAVA/
+*.txt
+*.xml
+*.png
+*BackPropagation
+*pyc
+*jpg
+*TTF
+*.class
