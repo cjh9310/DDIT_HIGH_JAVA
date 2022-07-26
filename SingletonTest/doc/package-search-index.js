@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"kr.or.ddit.basic"},{"l":"kr.or.ddit.member"},{"l":"kr.or.ddit.member.dao"},{"l":"kr.or.ddit.member.service"},{"l":"kr.or.ddit.member.vo"},{"l":"kr.or.ddit.util"}];updateSearchResults();
